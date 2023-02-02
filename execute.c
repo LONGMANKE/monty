@@ -3,7 +3,7 @@
 * execute - executes the opcode
 * @stack: head linked list - stack
 * @counter: line_counter
-* @file: pointer monty file
+* @file: poiner to monty file
 * @content: line content
 * Return: no return
 */
